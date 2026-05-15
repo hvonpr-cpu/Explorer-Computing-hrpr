@@ -4,4 +4,4 @@ matplotlib
 seaborn
 openpyxl
 plotly
-sklearn
+scikit-learn
