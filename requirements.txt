@@ -1,7 +1,5 @@
 streamlit
 pandas
-matplotlib
-seaborn
-openpyxl
-plotly
-scikit-learn
+requests
+beautifulsoup4
+selenium
